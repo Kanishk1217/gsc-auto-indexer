@@ -1,46 +1,45 @@
-name: Daily URL Indexer
+ name: Daily URL Indexer
 
-on:
-  schedule:
-    - cron: '0 13 * * *'   # Every day at 1pm UTC
-  workflow_dispatch:        # Manual trigger anytime
+  on:
+    schedule:
+      - cron: '0 13 * * *'
+    workflow_dispatch:
 
-jobs:
-  run-indexer:
-    runs-on: ubuntu-latest
+  jobs:
+    run-indexer:
+      runs-on: ubuntu-latest
 
-    steps:
-      - name: Checkout repo
-        uses: actions/checkout@v3
+      steps:
+        - name: Checkout repo
+          uses: actions/checkout@v4
 
-      - name: Setup Python
-        uses: actions/setup-python@v4
-        with:
-          python-version: '3.11'
+        - name: Setup Python
+          uses: actions/setup-python@v5
+          with:
+            python-version: '3.11'
 
-      - name: Install dependencies
-        run: pip install google-auth google-api-python-client requests
+        - name: Install dependencies
+          run: pip install google-auth google-api-python-client requests
 
-      - name: Write service account credentials
-        run: echo '${{ secrets.GOOGLE_SERVICE_ACCOUNT }}' > service_account.json
+        - name: Write service account credentials
+          run: printenv GOOGLE_SERVICE_ACCOUNT > service_account.json
+          env:
+            GOOGLE_SERVICE_ACCOUNT: ${{ secrets.GOOGLE_SERVICE_ACCOUNT }}
 
-      - name: Restore URL cache
-        uses: actions/cache@v3
-        with:
-          path: known_urls.json
-          key: url-cache-${{ github.run_id }}
-          restore-keys: url-cache-
+        - name: Restore URL cache
+          uses: actions/cache@v4
+          with:
+            path: known_urls.json
+            key: url-cache-${{ github.run_id }}
+            restore-keys: url-cache-
 
-      - name: Run indexer
-        run: python indexer.py
-        env:
-          EMAIL_SENDER: ${{ secrets.EMAIL_SENDER }}
-          EMAIL_PASSWORD: ${{ secrets.EMAIL_PASSWORD }}
+        - name: Run indexer
+          run: python indexer.py
 
-      - name: Commit updated cache back to repo
-        run: |
-          git config user.name "gsc-indexer-bot"
-          git config user.email "bot@agilitytech.ai"
-          git add known_urls.json || true
-          git diff --staged --quiet || git commit -m "chore: update URL cache [skip ci]"
-          git push || true
+        - name: Commit updated cache back to repo
+          run: |
+            git config user.name "gsc-indexer-bot"
+            git config user.email "bot@agilitytech.ai"
+            git add known_urls.json || true
+            git diff --staged --quiet || git commit -m "chore: update URL cache [skip ci]"
+            git push || true
