@@ -1,4 +1,4 @@
-name: Daily URL Indexer
+ name: Daily URL Indexer
 
 on:
   schedule:
@@ -19,12 +19,7 @@ jobs:
           python-version: '3.11'
 
       - name: Install dependencies
-        run: pip install google-auth google-api-python-client requests
-
-      - name: Write service account credentials
-        run: printenv GOOGLE_SERVICE_ACCOUNT > service_account.json
-        env:
-          GOOGLE_SERVICE_ACCOUNT: ${{ secrets.GOOGLE_SERVICE_ACCOUNT }}
+        run: pip install requests
 
       - name: Restore URL cache
         uses: actions/cache@v4
