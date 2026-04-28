@@ -1,0 +1,2091 @@
+{
+  "https://www.agilitytech.ai/": {
+    "site": "sc-domain:agilitytech.ai",
+    "first_seen": "2026-04-16T10:45:59.947618",
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "last_checked": "2026-04-16T10:45:59.947628"
+  },
+  "https://www.agilitytech.ai/about": {
+    "site": "sc-domain:agilitytech.ai",
+    "first_seen": "2026-04-16T10:46:06.369632",
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "last_checked": "2026-04-16T10:46:06.369642"
+  },
+  "https://www.agilitytech.ai/ai-consulting-company-ahmedabad": {
+    "site": "sc-domain:agilitytech.ai",
+    "first_seen": "2026-04-16T10:46:12.641925",
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "last_checked": "2026-04-16T10:46:12.641936"
+  },
+  "https://www.agilitytech.ai/ai-consulting-company-usa": {
+    "site": "sc-domain:agilitytech.ai",
+    "first_seen": "2026-04-16T10:46:18.903675",
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "last_checked": "2026-04-16T10:46:18.903686"
+  },
+  "https://www.agilitytech.ai/ai-consulting-healthcare": {
+    "site": "sc-domain:agilitytech.ai",
+    "first_seen": "2026-04-16T10:46:25.168758",
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "last_checked": "2026-04-16T10:46:25.168766"
+  },
+  "https://www.agilitytech.ai/ai-consulting-india": {
+    "site": "sc-domain:agilitytech.ai",
+    "first_seen": "2026-04-16T10:46:31.436142",
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "last_checked": "2026-04-16T10:46:31.436156"
+  },
+  "https://www.agilitytech.ai/ai-consulting-insurance": {
+    "site": "sc-domain:agilitytech.ai",
+    "first_seen": "2026-04-16T10:46:37.886223",
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "last_checked": "2026-04-16T10:46:37.886233"
+  },
+  "https://www.agilitytech.ai/ai-consulting-logistics": {
+    "site": "sc-domain:agilitytech.ai",
+    "first_seen": "2026-04-16T10:46:44.428701",
+    "verdict": "ERROR",
+    "coverageState": "",
+    "last_checked": "2026-04-28T09:09:37.212195",
+    "submitted": "2026-04-27T14:54:18.992805"
+  },
+  "https://www.agilitytech.ai/ai-implementation-services": {
+    "site": "sc-domain:agilitytech.ai",
+    "first_seen": "2026-04-16T10:46:51.257127",
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "last_checked": "2026-04-16T10:46:51.257137"
+  },
+  "https://www.agilitytech.ai/careers": {
+    "site": "sc-domain:agilitytech.ai",
+    "first_seen": "2026-04-16T10:46:57.527145",
+    "verdict": "ERROR",
+    "coverageState": "",
+    "last_checked": "2026-04-28T09:09:37.406382",
+    "submitted": "2026-04-27T14:54:25.605781"
+  },
+  "https://www.agilitytech.ai/case-studies": {
+    "site": "sc-domain:agilitytech.ai",
+    "first_seen": "2026-04-16T10:47:03.931992",
+    "verdict": "ERROR",
+    "coverageState": "",
+    "last_checked": "2026-04-28T09:09:37.600254",
+    "submitted": "2026-04-27T14:54:32.100870"
+  },
+  "https://www.agilitytech.ai/case-studies/healthcare-ai": {
+    "site": "sc-domain:agilitytech.ai",
+    "first_seen": "2026-04-16T10:47:10.326616",
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "last_checked": "2026-04-16T10:47:10.326626"
+  },
+  "https://www.agilitytech.ai/case-studies/healthcare-communication": {
+    "site": "sc-domain:agilitytech.ai",
+    "first_seen": "2026-04-16T10:47:16.580718",
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "last_checked": "2026-04-16T10:47:16.580729"
+  },
+  "https://www.agilitytech.ai/case-studies/insurance-automation": {
+    "site": "sc-domain:agilitytech.ai",
+    "first_seen": "2026-04-16T10:47:22.871700",
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "last_checked": "2026-04-16T10:47:22.871710"
+  },
+  "https://www.agilitytech.ai/case-studies/manufacturing-ai": {
+    "site": "sc-domain:agilitytech.ai",
+    "first_seen": "2026-04-16T10:47:29.244219",
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "last_checked": "2026-04-16T10:47:29.244229"
+  },
+  "https://www.agilitytech.ai/case-studies/payment-automation": {
+    "site": "sc-domain:agilitytech.ai",
+    "first_seen": "2026-04-16T10:47:35.521434",
+    "verdict": "ERROR",
+    "coverageState": "",
+    "last_checked": "2026-04-28T09:09:37.799878",
+    "submitted": "2026-04-27T14:54:38.581288"
+  },
+  "https://www.agilitytech.ai/case-studies/retail-analytics": {
+    "site": "sc-domain:agilitytech.ai",
+    "first_seen": "2026-04-16T10:47:42.443428",
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "last_checked": "2026-04-16T10:47:42.443437"
+  },
+  "https://www.agilitytech.ai/contact": {
+    "site": "sc-domain:agilitytech.ai",
+    "first_seen": "2026-04-16T10:47:48.725436",
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "last_checked": "2026-04-16T10:47:48.725446"
+  },
+  "https://www.agilitytech.ai/generative-ai-consulting": {
+    "site": "sc-domain:agilitytech.ai",
+    "first_seen": "2026-04-16T10:47:54.997536",
+    "verdict": "ERROR",
+    "coverageState": "",
+    "last_checked": "2026-04-28T09:09:37.990756",
+    "submitted": "2026-04-27T14:54:45.070746"
+  },
+  "https://www.agilitytech.ai/hire-ai-developers": {
+    "site": "sc-domain:agilitytech.ai",
+    "first_seen": "2026-04-16T10:48:01.391145",
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "last_checked": "2026-04-16T10:48:01.391156"
+  },
+  "https://www.agilitytech.ai/industries": {
+    "site": "sc-domain:agilitytech.ai",
+    "first_seen": "2026-04-16T10:48:07.660193",
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "last_checked": "2026-04-16T10:48:07.660203"
+  },
+  "https://www.agilitytech.ai/insights": {
+    "site": "sc-domain:agilitytech.ai",
+    "first_seen": "2026-04-16T10:48:14.165231",
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "last_checked": "2026-04-16T10:48:14.165291"
+  },
+  "https://www.agilitytech.ai/insights/agent-lightning-self-correcting-ai": {
+    "site": "sc-domain:agilitytech.ai",
+    "first_seen": "2026-04-16T10:48:20.434403",
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "last_checked": "2026-04-16T10:48:20.434412"
+  },
+  "https://www.agilitytech.ai/insights/agi-2025-really-gamechanger-for-your": {
+    "site": "sc-domain:agilitytech.ai",
+    "first_seen": "2026-04-16T10:48:26.917614",
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "last_checked": "2026-04-16T10:48:26.917624"
+  },
+  "https://www.agilitytech.ai/insights/ai-agents-peak-performance": {
+    "site": "sc-domain:agilitytech.ai",
+    "first_seen": "2026-04-16T10:48:33.186528",
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "last_checked": "2026-04-16T10:48:33.186539"
+  },
+  "https://www.agilitytech.ai/insights/ai-seo-marketing-powerhouse": {
+    "site": "sc-domain:agilitytech.ai",
+    "first_seen": "2026-04-16T10:48:39.452587",
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "last_checked": "2026-04-16T10:48:39.452596"
+  },
+  "https://www.agilitytech.ai/insights/aipowered-coding-the-new-frontier-just": {
+    "site": "sc-domain:agilitytech.ai",
+    "first_seen": "2026-04-16T10:48:45.695511",
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "last_checked": "2026-04-16T10:48:45.695521"
+  },
+  "https://www.agilitytech.ai/insights/aipowered-vulnerability-discovery-our-digital": {
+    "site": "sc-domain:agilitytech.ai",
+    "first_seen": "2026-04-16T10:48:51.967343",
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "last_checked": "2026-04-16T10:48:51.967354"
+  },
+  "https://www.agilitytech.ai/insights/anthropics-mythos-too-powerful-for-public": {
+    "site": "sc-domain:agilitytech.ai",
+    "first_seen": "2026-04-16T10:48:58.638599",
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "last_checked": "2026-04-16T10:48:58.638609"
+  },
+  "https://www.agilitytech.ai/insights/are-you-maximizing-your-productivity-how": {
+    "site": "sc-domain:agilitytech.ai",
+    "first_seen": "2026-04-16T10:49:04.951153",
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "last_checked": "2026-04-16T10:49:04.951164"
+  },
+  "https://www.agilitytech.ai/insights/are-you-missing-out-your-dream": {
+    "site": "sc-domain:agilitytech.ai",
+    "first_seen": "2026-04-16T10:49:11.559671",
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "last_checked": "2026-04-16T10:49:11.559681"
+  },
+  "https://www.agilitytech.ai/insights/are-you-ready-let-take-the": {
+    "site": "sc-domain:agilitytech.ai",
+    "first_seen": "2026-04-16T10:49:17.823412",
+    "verdict": "ERROR",
+    "coverageState": "",
+    "last_checked": "2026-04-28T09:09:38.187710",
+    "submitted": "2026-04-27T14:54:51.589904"
+  },
+  "https://www.agilitytech.ai/insights/are-you-sabotaging-your-sales-tracking": {
+    "site": "sc-domain:agilitytech.ai",
+    "first_seen": "2026-04-16T10:49:24.457795",
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "last_checked": "2026-04-17T14:15:39.798362",
+    "submitted": "2026-04-16T14:48:31.839177"
+  },
+  "https://www.agilitytech.ai/insights/are-your-cold-email-open-rates": {
+    "site": "sc-domain:agilitytech.ai",
+    "first_seen": "2026-04-16T10:49:31.282733",
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "last_checked": "2026-04-16T10:49:31.282744"
+  },
+  "https://www.agilitytech.ai/insights/are-your-skills-aiproof-navigating-the": {
+    "site": "sc-domain:agilitytech.ai",
+    "first_seen": "2026-04-16T10:49:37.757456",
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "last_checked": "2026-04-16T10:49:37.757465"
+  },
+  "https://www.agilitytech.ai/insights/asml-the-secret-engine-powering-every": {
+    "site": "sc-domain:agilitytech.ai",
+    "first_seen": "2026-04-16T10:49:44.258117",
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "last_checked": "2026-04-18T13:54:51.914567",
+    "submitted": "2026-04-17T14:15:46.246752"
+  },
+  "https://www.agilitytech.ai/insights/beyond-the-horizon-how-recursive-language": {
+    "site": "sc-domain:agilitytech.ai",
+    "first_seen": "2026-04-16T10:49:50.862795",
+    "verdict": "ERROR",
+    "coverageState": "",
+    "last_checked": "2026-04-28T09:09:38.368795",
+    "submitted": "2026-04-27T14:54:58.049472"
+  },
+  "https://www.agilitytech.ai/insights/beyond-thumbnails-how-smart-video-previews": {
+    "site": "sc-domain:agilitytech.ai",
+    "first_seen": "2026-04-16T10:49:57.548832",
+    "verdict": "ERROR",
+    "coverageState": "",
+    "last_checked": "2026-04-28T09:09:38.554515",
+    "submitted": "2026-04-27T14:55:04.518343"
+  },
+  "https://www.agilitytech.ai/insights/blog-07022026": {
+    "site": "sc-domain:agilitytech.ai",
+    "first_seen": "2026-04-16T10:50:04.003801",
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "last_checked": "2026-04-16T10:50:04.003811"
+  },
+  "https://www.agilitytech.ai/insights/blog-22022026": {
+    "site": "sc-domain:agilitytech.ai",
+    "first_seen": "2026-04-16T10:50:10.273122",
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "last_checked": "2026-04-16T10:50:10.273132"
+  },
+  "https://www.agilitytech.ai/insights/blog-23032026": {
+    "site": "sc-domain:agilitytech.ai",
+    "first_seen": "2026-04-16T10:50:16.573767",
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "last_checked": "2026-04-16T10:50:16.573777"
+  },
+  "https://www.agilitytech.ai/insights/blog-31012026": {
+    "site": "sc-domain:agilitytech.ai",
+    "first_seen": "2026-04-16T10:50:22.907995",
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "last_checked": "2026-04-16T10:50:22.908004"
+  },
+  "https://www.agilitytech.ai/insights/can-agentic-your-next-best-coworker": {
+    "site": "sc-domain:agilitytech.ai",
+    "first_seen": "2026-04-16T10:50:29.182527",
+    "verdict": "ERROR",
+    "coverageState": "",
+    "last_checked": "2026-04-28T09:09:38.907718",
+    "submitted": "2026-04-27T14:55:11.076123"
+  },
+  "https://www.agilitytech.ai/insights/can-aidriven-wealth-truly-transform-your": {
+    "site": "sc-domain:agilitytech.ai",
+    "first_seen": "2026-04-16T10:50:35.753655",
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "last_checked": "2026-04-16T10:50:35.753665"
+  },
+  "https://www.agilitytech.ai/insights/can-anthropics-new-claude-cowork-plugins": {
+    "site": "sc-domain:agilitytech.ai",
+    "first_seen": "2026-04-16T10:50:42.025927",
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "last_checked": "2026-04-16T10:50:42.025939"
+  },
+  "https://www.agilitytech.ai/insights/can-bytedances-seedance-transform-filmmaking-just": {
+    "site": "sc-domain:agilitytech.ai",
+    "first_seen": "2026-04-16T10:50:48.335147",
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "last_checked": "2026-04-16T10:50:48.335158"
+  },
+  "https://www.agilitytech.ai/insights/can-decentralized-hiring-through-global-coding": {
+    "site": "sc-domain:agilitytech.ai",
+    "first_seen": "2026-04-16T10:50:54.595177",
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "last_checked": "2026-04-16T10:50:54.595189"
+  },
+  "https://www.agilitytech.ai/insights/can-elon-musks-5step-engineering-algorithm": {
+    "site": "sc-domain:agilitytech.ai",
+    "first_seen": "2026-04-16T10:51:00.865011",
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "last_checked": "2026-04-16T10:51:00.865020"
+  },
+  "https://www.agilitytech.ai/insights/can-loss-leader-strategy-really-drive": {
+    "site": "sc-domain:agilitytech.ai",
+    "first_seen": "2026-04-16T10:51:07.141175",
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "last_checked": "2026-04-16T10:51:07.141186"
+  },
+  "https://www.agilitytech.ai/insights/can-pixel-agents-pixelate-your-path": {
+    "site": "sc-domain:agilitytech.ai",
+    "first_seen": "2026-04-16T10:51:13.666648",
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "last_checked": "2026-04-16T10:51:13.666659"
+  },
+  "https://www.agilitytech.ai/insights/can-really-diagnose-illness-better-than": {
+    "site": "sc-domain:agilitytech.ai",
+    "first_seen": "2026-04-16T10:51:20.264883",
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "last_checked": "2026-04-16T10:51:20.264890"
+  },
+  "https://www.agilitytech.ai/insights/can-really-outperform-the-500-unpacking": {
+    "site": "sc-domain:agilitytech.ai",
+    "first_seen": "2026-04-16T10:51:26.598797",
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "last_checked": "2026-04-16T10:51:26.598809"
+  },
+  "https://www.agilitytech.ai/insights/can-rowboat-really-sink-traditional-agencies": {
+    "site": "sc-domain:agilitytech.ai",
+    "first_seen": "2026-04-16T10:51:32.879625",
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "last_checked": "2026-04-16T10:51:32.879637"
+  },
+  "https://www.agilitytech.ai/insights/can-seamless-memory-transfer-revolutionize-your": {
+    "site": "sc-domain:agilitytech.ai",
+    "first_seen": "2026-04-16T10:51:39.291843",
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "last_checked": "2026-04-16T10:51:39.291854"
+  },
+  "https://www.agilitytech.ai/insights/can-transparency-build-more-trust-than": {
+    "site": "sc-domain:agilitytech.ai",
+    "first_seen": "2026-04-16T10:51:45.554063",
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "last_checked": "2026-04-16T10:51:45.554075"
+  },
+  "https://www.agilitytech.ai/insights/can-uncover-cyber-threats-that-have": {
+    "site": "sc-domain:agilitytech.ai",
+    "first_seen": "2026-04-16T10:51:51.868846",
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "last_checked": "2026-04-17T14:16:12.460603",
+    "submitted": "2026-04-16T14:49:04.632603"
+  },
+  "https://www.agilitytech.ai/insights/can-weekend-project-truly-deliver-unparalleled": {
+    "site": "sc-domain:agilitytech.ai",
+    "first_seen": "2026-04-16T10:51:58.196721",
+    "verdict": "ERROR",
+    "coverageState": "",
+    "last_checked": "2026-04-28T09:09:39.292919",
+    "submitted": "2026-04-27T14:55:17.617175"
+  },
+  "https://www.agilitytech.ai/insights/can-you-really-get-claude-capabilities": {
+    "site": "sc-domain:agilitytech.ai",
+    "first_seen": "2026-04-16T10:52:04.970525",
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "last_checked": "2026-04-16T10:52:04.970535"
+  },
+  "https://www.agilitytech.ai/insights/can-your-browser-become-your-most": {
+    "site": "sc-domain:agilitytech.ai",
+    "first_seen": "2026-04-16T10:52:11.285682",
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "last_checked": "2026-04-16T10:52:11.285694"
+  },
+  "https://www.agilitytech.ai/insights/can-your-handle-6000-prompts-the": {
+    "site": "sc-domain:agilitytech.ai",
+    "first_seen": "2026-04-16T10:52:17.572484",
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "last_checked": "2026-04-16T10:52:17.572494"
+  },
+  "https://www.agilitytech.ai/insights/chinas-deepseek-moment-with-manus-ushering": {
+    "site": "sc-domain:agilitytech.ai",
+    "first_seen": "2026-04-16T10:52:23.890195",
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "last_checked": "2026-04-16T10:52:23.890206"
+  },
+  "https://www.agilitytech.ai/insights/claude-ais-free-version-redefining-whats": {
+    "site": "sc-domain:agilitytech.ai",
+    "first_seen": "2026-04-16T10:52:30.220475",
+    "verdict": "ERROR",
+    "coverageState": "",
+    "last_checked": "2026-04-28T09:09:39.485748",
+    "submitted": "2026-04-27T14:55:24.205057"
+  },
+  "https://www.agilitytech.ai/insights/could-aiassisted-seo-unlock-your-untapped": {
+    "site": "sc-domain:agilitytech.ai",
+    "first_seen": "2026-04-16T10:52:36.818380",
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "last_checked": "2026-04-16T10:52:36.818391"
+  },
+  "https://www.agilitytech.ai/insights/could-living-brain-cells-the-ultraefficient": {
+    "site": "sc-domain:agilitytech.ai",
+    "first_seen": "2026-04-16T10:52:43.091168",
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "last_checked": "2026-04-16T10:52:43.091179"
+  },
+  "https://www.agilitytech.ai/insights/how-does-your-phone-pinpoint-your": {
+    "site": "sc-domain:agilitytech.ai",
+    "first_seen": "2026-04-16T10:52:49.371287",
+    "verdict": "ERROR",
+    "coverageState": "",
+    "last_checked": "2026-04-28T09:09:39.685116",
+    "submitted": "2026-04-27T14:55:30.636484"
+  },
+  "https://www.agilitytech.ai/insights/kimi-the-secret-unlocking-unprecedented-business": {
+    "site": "sc-domain:agilitytech.ai",
+    "first_seen": "2026-04-16T10:52:55.800006",
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "last_checked": "2026-04-16T10:52:55.800015"
+  },
+  "https://www.agilitytech.ai/insights/market-research-the-new-5000-consultant": {
+    "site": "sc-domain:agilitytech.ai",
+    "first_seen": "2026-04-16T10:53:02.058610",
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "last_checked": "2026-04-16T10:53:02.058619"
+  },
+  "https://www.agilitytech.ai/insights/recursive-language-models-context-rot-ai-efficiency": {
+    "site": "sc-domain:agilitytech.ai",
+    "first_seen": "2026-04-16T10:53:08.314315",
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "last_checked": "2026-04-16T10:53:08.314324"
+  },
+  "https://www.agilitytech.ai/insights/revolutionize-your-digital-presence-how-ai": {
+    "site": "sc-domain:agilitytech.ai",
+    "first_seen": "2026-04-16T10:53:14.625735",
+    "verdict": "ERROR",
+    "coverageState": "",
+    "last_checked": "2026-04-28T09:09:39.864339",
+    "submitted": "2026-04-27T14:55:37.225649"
+  },
+  "https://www.agilitytech.ai/insights/smart-video-previews-engagement": {
+    "site": "sc-domain:agilitytech.ai",
+    "first_seen": "2026-04-16T10:53:21.069630",
+    "verdict": "ERROR",
+    "coverageState": "",
+    "last_checked": "2026-04-28T09:09:40.043958",
+    "submitted": "2026-04-27T14:55:43.691120"
+  },
+  "https://www.agilitytech.ai/insights/the-future-is-now-unlocking-peak": {
+    "site": "sc-domain:agilitytech.ai",
+    "first_seen": "2026-04-16T10:53:27.653148",
+    "verdict": "ERROR",
+    "coverageState": "",
+    "last_checked": "2026-04-28T09:09:40.235165",
+    "submitted": "2026-04-27T14:55:50.142992"
+  },
+  "https://www.agilitytech.ai/insights/the-smartest-move-for-your-real": {
+    "site": "sc-domain:agilitytech.ai",
+    "first_seen": "2026-04-16T10:53:34.296808",
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "last_checked": "2026-04-16T10:53:34.296818"
+  },
+  "https://www.agilitytech.ai/insights/unleash-ais-full-power-one-api": {
+    "site": "sc-domain:agilitytech.ai",
+    "first_seen": "2026-04-16T10:53:40.810845",
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "last_checked": "2026-04-16T10:53:40.810856"
+  },
+  "https://www.agilitytech.ai/insights/unleash-your-ais-full-potential-how": {
+    "site": "sc-domain:agilitytech.ai",
+    "first_seen": "2026-04-16T10:53:47.134227",
+    "verdict": "ERROR",
+    "coverageState": "",
+    "last_checked": "2026-04-28T09:09:40.417074",
+    "submitted": "2026-04-27T14:55:56.593743"
+  },
+  "https://www.agilitytech.ai/insights/unlock-superpowers-how-manus-redefining": {
+    "site": "sc-domain:agilitytech.ai",
+    "first_seen": "2026-04-16T10:53:53.708520",
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "last_checked": "2026-04-16T10:53:53.708533"
+  },
+  "https://www.agilitytech.ai/insights/unlock-your-potential-clawdbot-agent-your": {
+    "site": "sc-domain:agilitytech.ai",
+    "first_seen": "2026-04-16T10:54:00.353997",
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "last_checked": "2026-04-16T10:54:00.354008"
+  },
+  "https://www.agilitytech.ai/insights/unlocking-ais-true-potential-building": {
+    "site": "sc-domain:agilitytech.ai",
+    "first_seen": "2026-04-16T10:54:06.855803",
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "last_checked": "2026-04-16T10:54:06.855814"
+  },
+  "https://www.agilitytech.ai/insights/unlocking-superpowers-how-bytez-model-api": {
+    "site": "sc-domain:agilitytech.ai",
+    "first_seen": "2026-04-16T10:54:13.108826",
+    "verdict": "ERROR",
+    "coverageState": "",
+    "last_checked": "2026-04-28T09:09:40.617150",
+    "submitted": "2026-04-27T14:56:03.104003"
+  },
+  "https://www.agilitytech.ai/insights/your-agency-ready-for-revolution-just": {
+    "site": "sc-domain:agilitytech.ai",
+    "first_seen": "2026-04-16T10:54:19.918975",
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "last_checked": "2026-04-16T10:54:19.918985"
+  },
+  "https://www.agilitytech.ai/insights/your-business-ready-understanding-were-confusing": {
+    "site": "sc-domain:agilitytech.ai",
+    "first_seen": "2026-04-16T10:54:26.222209",
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "last_checked": "2026-04-16T10:54:26.222219"
+  },
+  "https://www.agilitytech.ai/insights/your-claude-subscription-25x-more-powerful": {
+    "site": "sc-domain:agilitytech.ai",
+    "first_seen": "2026-04-16T10:54:32.486825",
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "last_checked": "2026-04-16T10:54:32.486836"
+  },
+  "https://www.agilitytech.ai/insights/your-coding-assistant-trapped-your-desk": {
+    "site": "sc-domain:agilitytech.ai",
+    "first_seen": "2026-04-16T10:54:38.964048",
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "last_checked": "2026-04-16T10:54:38.964059"
+  },
+  "https://www.agilitytech.ai/insights/your-domain-name-hidden-money-pit": {
+    "site": "sc-domain:agilitytech.ai",
+    "first_seen": "2026-04-16T10:54:45.264581",
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "last_checked": "2026-04-16T10:54:45.264593"
+  },
+  "https://www.agilitytech.ai/insights/your-ecommerce-business-ready-automate-its": {
+    "site": "sc-domain:agilitytech.ai",
+    "first_seen": "2026-04-16T10:54:51.530083",
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "last_checked": "2026-04-16T10:54:51.530094"
+  },
+  "https://www.agilitytech.ai/insights/your-existing-content-hidden-goldmine-youre": {
+    "site": "sc-domain:agilitytech.ai",
+    "first_seen": "2026-04-16T10:54:57.772997",
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "last_checked": "2026-04-16T14:50:03.848611",
+    "submitted": "2026-04-16T10:54:57.882525"
+  },
+  "https://www.agilitytech.ai/insights/your-manufacturing-ready-for-industrial-revolution": {
+    "site": "sc-domain:agilitytech.ai",
+    "first_seen": "2026-04-16T10:55:04.184672",
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "last_checked": "2026-04-16T10:55:04.184682"
+  },
+  "https://www.agilitytech.ai/insights/your-mine-operating-peak-potential-discover": {
+    "site": "sc-domain:agilitytech.ai",
+    "first_seen": "2026-04-16T10:55:10.467808",
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "last_checked": "2026-04-16T10:55:10.467820"
+  },
+  "https://www.agilitytech.ai/insights/your-mine-unearthing-its-full-potential": {
+    "site": "sc-domain:agilitytech.ai",
+    "first_seen": "2026-04-16T10:55:16.737215",
+    "verdict": "ERROR",
+    "coverageState": "",
+    "last_checked": "2026-04-28T09:09:40.815974",
+    "submitted": "2026-04-27T14:56:09.539970"
+  },
+  "https://www.agilitytech.ai/insights/your-strategy-missing-the-forest-for": {
+    "site": "sc-domain:agilitytech.ai",
+    "first_seen": "2026-04-16T10:55:23.346927",
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "last_checked": "2026-04-16T10:55:23.346937"
+  },
+  "https://www.agilitytech.ai/openai-gpt-development": {
+    "site": "sc-domain:agilitytech.ai",
+    "first_seen": "2026-04-16T10:55:29.704048",
+    "verdict": "ERROR",
+    "coverageState": "",
+    "last_checked": "2026-04-28T09:09:41.002613",
+    "submitted": "2026-04-27T14:56:16.104309"
+  },
+  "https://www.agilitytech.ai/solutions": {
+    "site": "sc-domain:agilitytech.ai",
+    "first_seen": "2026-04-16T10:55:36.315643",
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "last_checked": "2026-04-16T10:55:36.315654"
+  },
+  "https://www.agilitytech.ai/solutions/ai-analytics": {
+    "site": "sc-domain:agilitytech.ai",
+    "first_seen": "2026-04-16T10:55:42.820600",
+    "verdict": "ERROR",
+    "coverageState": "",
+    "last_checked": "2026-04-28T09:09:41.375936",
+    "submitted": "2026-04-27T14:56:22.690649"
+  },
+  "https://www.agilitytech.ai/solutions/artificial-intelligence": {
+    "site": "sc-domain:agilitytech.ai",
+    "first_seen": "2026-04-16T10:55:49.421935",
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "last_checked": "2026-04-16T10:55:49.421945"
+  },
+  "https://www.agilitytech.ai/solutions/automation": {
+    "site": "sc-domain:agilitytech.ai",
+    "first_seen": "2026-04-16T10:55:55.695220",
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "last_checked": "2026-04-16T10:55:55.695231"
+  },
+  "https://www.agilitytech.ai/solutions/data-engineering": {
+    "site": "sc-domain:agilitytech.ai",
+    "first_seen": "2026-04-16T10:56:02.196656",
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "last_checked": "2026-04-16T10:56:02.196667"
+  },
+  "https://www.agilitytech.ai/solutions/web-mobile-development": {
+    "site": "sc-domain:agilitytech.ai",
+    "first_seen": "2026-04-16T10:56:08.681224",
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "last_checked": "2026-04-16T10:56:08.681273"
+  },
+  "https://www.agilitytech.ai/speed": {
+    "site": "sc-domain:agilitytech.ai",
+    "first_seen": "2026-04-16T10:56:14.987631",
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "last_checked": "2026-04-16T10:56:14.987642"
+  },
+  "https://omnitrade24.com/": {
+    "site": "sc-domain:omnitrade24.com",
+    "first_seen": "2026-04-16T10:56:22.156745",
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "last_checked": "2026-04-16T10:56:22.156756"
+  },
+  "https://omnitrade24.com/signup": {
+    "site": "sc-domain:omnitrade24.com",
+    "first_seen": "2026-04-16T10:56:28.459330",
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "last_checked": "2026-04-16T10:56:28.459341"
+  },
+  "https://omnitrade24.com/pricing": {
+    "site": "sc-domain:omnitrade24.com",
+    "first_seen": "2026-04-16T10:56:34.768949",
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "last_checked": "2026-04-16T10:56:34.768959"
+  },
+  "https://omnitrade24.com/free": {
+    "site": "sc-domain:omnitrade24.com",
+    "first_seen": "2026-04-16T10:56:41.254460",
+    "verdict": "ERROR",
+    "coverageState": "",
+    "last_checked": "2026-04-28T09:09:43.942748",
+    "submitted": "2026-04-27T14:57:09.043639"
+  },
+  "https://omnitrade24.com/exchanges/binance": {
+    "site": "sc-domain:omnitrade24.com",
+    "first_seen": "2026-04-16T10:56:48.001634",
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "last_checked": "2026-04-16T10:56:48.001644"
+  },
+  "https://omnitrade24.com/exchanges/bybit": {
+    "site": "sc-domain:omnitrade24.com",
+    "first_seen": "2026-04-16T10:56:54.504556",
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "last_checked": "2026-04-16T10:56:54.504565"
+  },
+  "https://omnitrade24.com/exchanges/okx": {
+    "site": "sc-domain:omnitrade24.com",
+    "first_seen": "2026-04-16T10:57:00.784164",
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "last_checked": "2026-04-16T10:57:00.784174"
+  },
+  "https://omnitrade24.com/exchanges/kucoin": {
+    "site": "sc-domain:omnitrade24.com",
+    "first_seen": "2026-04-16T10:57:07.276452",
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "last_checked": "2026-04-16T10:57:07.276462"
+  },
+  "https://omnitrade24.com/exchanges/alpaca": {
+    "site": "sc-domain:omnitrade24.com",
+    "first_seen": "2026-04-16T10:57:13.720709",
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "last_checked": "2026-04-16T10:57:13.720720"
+  },
+  "https://omnitrade24.com/exchanges/bitget": {
+    "site": "sc-domain:omnitrade24.com",
+    "first_seen": "2026-04-16T10:57:20.431937",
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "last_checked": "2026-04-16T10:57:20.431946"
+  },
+  "https://omnitrade24.com/blog": {
+    "site": "sc-domain:omnitrade24.com",
+    "first_seen": "2026-04-16T10:57:26.703371",
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "last_checked": "2026-04-16T10:57:26.703382"
+  },
+  "https://omnitrade24.com/blog/tradingview-automation-guide": {
+    "site": "sc-domain:omnitrade24.com",
+    "first_seen": "2026-04-16T10:57:33.320314",
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "last_checked": "2026-04-16T10:57:33.320326"
+  },
+  "https://omnitrade24.com/blog/binance-tradingview-integration": {
+    "site": "sc-domain:omnitrade24.com",
+    "first_seen": "2026-04-16T10:57:39.626455",
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "last_checked": "2026-04-19T13:54:11.805661",
+    "submitted": "2026-04-18T13:56:37.449550"
+  },
+  "https://omnitrade24.com/blog/tradingview-binance-automation-guide": {
+    "site": "sc-domain:omnitrade24.com",
+    "first_seen": "2026-04-16T10:57:46.058919",
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "last_checked": "2026-04-16T10:57:46.058930"
+  },
+  "https://omnitrade24.com/blog/free-vs-paid-trading-bots": {
+    "site": "sc-domain:omnitrade24.com",
+    "first_seen": "2026-04-16T10:57:52.337846",
+    "verdict": "ERROR",
+    "coverageState": "",
+    "last_checked": "2026-04-28T09:09:44.126798",
+    "submitted": "2026-04-27T14:57:15.490713"
+  },
+  "https://omnitrade24.com/blog/bitget-tradingview-automation-guide": {
+    "site": "sc-domain:omnitrade24.com",
+    "first_seen": "2026-04-16T10:57:58.701545",
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "last_checked": "2026-04-16T10:57:58.701555"
+  },
+  "https://omnitrade24.com/login": {
+    "site": "sc-domain:omnitrade24.com",
+    "first_seen": "2026-04-16T10:58:04.997199",
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "last_checked": "2026-04-16T10:58:04.997210"
+  },
+  "https://omnitrade24.com/privacy": {
+    "site": "sc-domain:omnitrade24.com",
+    "first_seen": "2026-04-16T10:58:11.300376",
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "last_checked": "2026-04-16T10:58:11.300387"
+  },
+  "https://omnitrade24.com/terms": {
+    "site": "sc-domain:omnitrade24.com",
+    "first_seen": "2026-04-16T10:58:17.678522",
+    "verdict": "ERROR",
+    "coverageState": "",
+    "last_checked": "2026-04-28T09:09:44.314458",
+    "submitted": "2026-04-27T14:57:21.957876"
+  },
+  "https://omnitrade24.com/refund": {
+    "site": "sc-domain:omnitrade24.com",
+    "first_seen": "2026-04-16T10:58:24.061196",
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "last_checked": "2026-04-16T10:58:24.061207"
+  },
+  "https://omnitrade24.com/disclaimer": {
+    "site": "sc-domain:omnitrade24.com",
+    "first_seen": "2026-04-16T10:58:30.371469",
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "last_checked": "2026-04-16T10:58:30.371479"
+  },
+  "https://automationmart.io": {
+    "site": "https://automationmart.io/",
+    "first_seen": "2026-04-16T10:58:37.348193",
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "last_checked": "2026-04-16T10:58:37.348203"
+  },
+  "https://automationmart.io/browse": {
+    "site": "https://automationmart.io/",
+    "first_seen": "2026-04-16T10:58:43.657281",
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "last_checked": "2026-04-16T10:58:43.657294"
+  },
+  "https://automationmart.io/blog": {
+    "site": "https://automationmart.io/",
+    "first_seen": "2026-04-16T10:58:49.916150",
+    "verdict": "ERROR",
+    "coverageState": "",
+    "last_checked": "2026-04-28T09:09:46.631894",
+    "submitted": "2026-04-27T14:58:01.863440"
+  },
+  "https://automationmart.io/sell": {
+    "site": "https://automationmart.io/",
+    "first_seen": "2026-04-16T10:58:56.275330",
+    "verdict": "ERROR",
+    "coverageState": "",
+    "last_checked": "2026-04-28T09:09:46.816268",
+    "submitted": "2026-04-27T14:58:08.303929"
+  },
+  "https://automationmart.io/support": {
+    "site": "https://automationmart.io/",
+    "first_seen": "2026-04-16T10:59:02.627340",
+    "verdict": "ERROR",
+    "coverageState": "",
+    "last_checked": "2026-04-28T09:09:47.000096",
+    "submitted": "2026-04-27T14:58:14.756951"
+  },
+  "https://automationmart.io/blog/make-com-workflows-for-shopify": {
+    "site": "https://automationmart.io/",
+    "first_seen": "2026-04-16T10:59:09.013952",
+    "verdict": "ERROR",
+    "coverageState": "",
+    "last_checked": "2026-04-28T09:09:47.199891",
+    "submitted": "2026-04-27T14:58:21.218050"
+  },
+  "https://automationmart.io/blog/n8n-hubspot-automation": {
+    "site": "https://automationmart.io/",
+    "first_seen": "2026-04-16T10:59:15.415872",
+    "verdict": "ERROR",
+    "coverageState": "",
+    "last_checked": "2026-04-28T09:09:47.397448",
+    "submitted": "2026-04-27T14:58:27.679109"
+  },
+  "https://automationmart.io/blog/zapier-vs-make-vs-n8n": {
+    "site": "https://automationmart.io/",
+    "first_seen": "2026-04-16T10:59:21.787984",
+    "verdict": "ERROR",
+    "coverageState": "",
+    "last_checked": "2026-04-28T09:09:47.580176",
+    "submitted": "2026-04-27T14:58:34.223324"
+  },
+  "https://automationmart.io/blog/business-process-automation-examples": {
+    "site": "https://automationmart.io/",
+    "first_seen": "2026-04-16T10:59:28.201556",
+    "verdict": "ERROR",
+    "coverageState": "",
+    "last_checked": "2026-04-28T09:09:47.765236",
+    "submitted": "2026-04-27T14:58:40.663591"
+  },
+  "https://automationmart.io/blog/slack-automation-workflows": {
+    "site": "https://automationmart.io/",
+    "first_seen": "2026-04-16T10:59:34.729091",
+    "verdict": "ERROR",
+    "coverageState": "",
+    "last_checked": "2026-04-28T09:09:47.943318",
+    "submitted": "2026-04-27T14:58:47.159141"
+  },
+  "https://automationmart.io/listing/sync-facebook-lead-ads-leads-with-google-sheets-hhjtp": {
+    "site": "https://automationmart.io/",
+    "first_seen": "2026-04-16T10:59:41.337650",
+    "verdict": "ERROR",
+    "coverageState": "",
+    "last_checked": "2026-04-28T09:09:48.128798",
+    "submitted": "2026-04-27T14:58:53.610663"
+  },
+  "https://automationmart.io/listing/social-media-distribution-system-v0u8v": {
+    "site": "https://automationmart.io/",
+    "first_seen": "2026-04-16T10:59:47.707612",
+    "verdict": "ERROR",
+    "coverageState": "",
+    "last_checked": "2026-04-28T09:09:48.307509",
+    "submitted": "2026-04-27T14:59:00.045547"
+  },
+  "https://automationmart.io/listing/enrich-company-data-with-chatgpt-create-salesforce-lead-sgd10": {
+    "site": "https://automationmart.io/",
+    "first_seen": "2026-04-16T10:59:54.078630",
+    "verdict": "ERROR",
+    "coverageState": "",
+    "last_checked": "2026-04-28T09:09:48.495233",
+    "submitted": "2026-04-27T14:59:06.509339"
+  },
+  "https://automationmart.io/listing/stock-market-daily-digest-with-bright-data-scraping-gem-mnude": {
+    "site": "https://automationmart.io/",
+    "first_seen": "2026-04-16T11:00:00.485172",
+    "verdict": "ERROR",
+    "coverageState": "",
+    "last_checked": "2026-04-28T09:09:48.681350",
+    "submitted": "2026-04-27T14:59:12.946568"
+  },
+  "https://automationmart.io/listing/analyze-landing-page-with-openai-and-get-optimization-t-xy8s7": {
+    "site": "https://automationmart.io/",
+    "first_seen": "2026-04-16T11:00:07.105681",
+    "verdict": "ERROR",
+    "coverageState": "",
+    "last_checked": "2026-04-28T09:09:48.861414",
+    "submitted": "2026-04-27T14:59:19.502226"
+  },
+  "https://automationmart.io/listing/analyze-facebook-ads-send-insights-to-google-sheets-wit-0fnqh": {
+    "site": "https://automationmart.io/",
+    "first_seen": "2026-04-16T11:00:13.675750",
+    "verdict": "ERROR",
+    "coverageState": "",
+    "last_checked": "2026-04-28T09:09:49.048508",
+    "submitted": "2026-04-27T14:59:25.957511"
+  },
+  "https://automationmart.io/listing/angie-personal-ai-assistant-with-telegram-voice-and-tex-2xwcj": {
+    "site": "https://automationmart.io/",
+    "first_seen": "2026-04-16T11:00:20.064948",
+    "verdict": "ERROR",
+    "coverageState": "",
+    "last_checked": "2026-04-28T09:09:49.234712",
+    "submitted": "2026-04-27T14:59:32.396928"
+  },
+  "https://automationmart.io/listing/automate-multi-platform-social-media-content-creation-w-xvg81": {
+    "site": "https://automationmart.io/",
+    "first_seen": "2026-04-16T11:00:26.463085",
+    "verdict": "ERROR",
+    "coverageState": "",
+    "last_checked": "2026-04-28T09:09:49.423606",
+    "submitted": "2026-04-27T14:59:38.839291"
+  },
+  "https://automationmart.io/listing/generate-chatgpt-completions-from-google-sheets-rows-0gdud": {
+    "site": "https://automationmart.io/",
+    "first_seen": "2026-04-16T11:00:33.032512",
+    "verdict": "ERROR",
+    "coverageState": "",
+    "last_checked": "2026-04-28T09:09:49.605243",
+    "submitted": "2026-04-27T14:59:45.402545"
+  },
+  "https://automationmart.io/listing/auto-reply-to-new-shopify-orders-via-gmail-wygdv": {
+    "site": "https://automationmart.io/",
+    "first_seen": "2026-04-16T11:00:39.598899",
+    "verdict": "ERROR",
+    "coverageState": "",
+    "last_checked": "2026-04-28T09:09:49.796541",
+    "submitted": "2026-04-27T14:59:51.870454"
+  },
+  "https://tidal.supply/": {
+    "site": "https://tidal.supply/",
+    "first_seen": "2026-04-16T11:00:46.744165",
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "last_checked": "2026-04-16T11:00:46.744176"
+  },
+  "https://omnitrade24.com/blog/tradingview-alert-to-mt4": {
+    "site": "sc-domain:omnitrade24.com",
+    "first_seen": "2026-04-16T14:50:56.399552",
+    "verdict": "ERROR",
+    "coverageState": "",
+    "last_checked": "2026-04-28T09:09:44.503692",
+    "submitted": "2026-04-27T14:57:28.401918"
+  },
+  "https://omnitrade24.com/blog/binance-trading-bot-no-coding": {
+    "site": "sc-domain:omnitrade24.com",
+    "first_seen": "2026-04-16T14:51:02.771230",
+    "verdict": "ERROR",
+    "coverageState": "",
+    "last_checked": "2026-04-28T09:09:44.684346",
+    "submitted": "2026-04-27T14:57:34.966440"
+  },
+  "https://www.agilitytech.ai/insights/can-digital-transformation-propel-your": {
+    "site": "sc-domain:agilitytech.ai",
+    "first_seen": "2026-04-17T14:17:33.679364",
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "last_checked": "2026-04-17T14:17:33.679376"
+  },
+  "https://www.agilitytech.ai/insights/the-catalyst-your-design-team-needs": {
+    "site": "sc-domain:agilitytech.ai",
+    "first_seen": "2026-04-20T14:30:44.652216",
+    "verdict": "ERROR",
+    "coverageState": "",
+    "last_checked": "2026-04-28T09:09:41.568138",
+    "submitted": "2026-04-27T14:56:29.261626"
+  },
+  "https://www.agilitytech.ai/youtube": {
+    "site": "sc-domain:agilitytech.ai",
+    "first_seen": "2026-04-20T14:30:51.186750",
+    "verdict": "ERROR",
+    "coverageState": "",
+    "last_checked": "2026-04-28T09:09:41.753804",
+    "submitted": "2026-04-27T14:56:35.864088"
+  },
+  "https://omnitrade24.com/blog/tradingview-to-binance-bot": {
+    "site": "sc-domain:omnitrade24.com",
+    "first_seen": "2026-04-20T14:31:31.163578",
+    "verdict": "ERROR",
+    "coverageState": "",
+    "last_checked": "2026-04-28T09:09:44.889245",
+    "submitted": "2026-04-27T14:57:41.524569"
+  },
+  "https://www.agilitytech.ai/insights/could-living-neurons-chip-the-ultimate": {
+    "site": "sc-domain:agilitytech.ai",
+    "first_seen": "2026-04-21T14:31:06.036050",
+    "verdict": "ERROR",
+    "coverageState": "",
+    "last_checked": "2026-04-28T09:09:41.942799",
+    "submitted": "2026-04-27T14:56:42.285213"
+  },
+  "https://www.agilitytech.ai/insights/can-ais-country-geniuses-truly-unlock": {
+    "site": "sc-domain:agilitytech.ai",
+    "first_seen": "2026-04-22T14:31:31.045545",
+    "verdict": "ERROR",
+    "coverageState": "",
+    "last_checked": "2026-04-28T09:09:42.127716",
+    "submitted": "2026-04-27T14:56:48.730893"
+  },
+  "https://omnitrade24.com/blog/how-to-automate-crypto-trading-safely": {
+    "site": "sc-domain:omnitrade24.com",
+    "first_seen": "2026-04-23T15:09:49.083307",
+    "verdict": "ERROR",
+    "coverageState": "",
+    "last_checked": "2026-04-28T09:09:45.075379",
+    "submitted": "2026-04-27T14:57:47.975514"
+  },
+  "https://automationmart.io/listing/4254-import-signed-documents-from-docusign-to-google-drive": {
+    "site": "https://automationmart.io/",
+    "first_seen": "2026-04-23T15:11:54.014261",
+    "verdict": "ERROR",
+    "coverageState": "",
+    "last_checked": "2026-04-28T09:09:49.978350",
+    "submitted": "2026-04-27T14:59:58.321165"
+  },
+  "https://automationmart.io/listing/496-send-email-when-a-specified-name-is-added-to-a-google-sheets-spreadsheet": {
+    "site": "https://automationmart.io/",
+    "first_seen": "2026-04-23T15:12:00.456854",
+    "verdict": "ERROR",
+    "coverageState": "",
+    "last_checked": "2026-04-28T09:09:50.159821",
+    "submitted": "2026-04-27T15:00:04.886615"
+  },
+  "https://automationmart.io/listing/3222-insert-new-rows-with-data-from-google-sheets-to-a-location-specified-by-index-in-a-document-in-google-docs": {
+    "site": "https://automationmart.io/",
+    "first_seen": "2026-04-23T15:12:07.349686",
+    "verdict": "ERROR",
+    "coverageState": "",
+    "last_checked": "2026-04-28T09:09:50.347993",
+    "submitted": "2026-04-27T15:00:11.377214"
+  },
+  "https://automationmart.io/listing/5730-update-inventory-numbers-on-google-sheets-based-on-shopify-orders": {
+    "site": "https://automationmart.io/",
+    "first_seen": "2026-04-23T15:12:13.943069",
+    "verdict": "ERROR",
+    "coverageState": "",
+    "last_checked": "2026-04-28T09:09:50.532107",
+    "submitted": "2026-04-27T15:00:17.764626"
+  },
+  "https://automationmart.io/listing/11998-enrich-lead-s-company-data-with-chatgpt-create-leads-in-salesforce-and-send-slack-notifications": {
+    "site": "https://automationmart.io/",
+    "first_seen": "2026-04-23T15:12:20.683039",
+    "verdict": "ERROR",
+    "coverageState": "",
+    "last_checked": "2026-04-28T09:09:50.711331",
+    "submitted": "2026-04-27T15:00:24.219670"
+  },
+  "https://automationmart.io/listing/15042-ai-crawling-for-chatgpt-deepseek-and-claude": {
+    "site": "https://automationmart.io/",
+    "first_seen": "2026-04-23T15:12:27.228468",
+    "verdict": "ERROR",
+    "coverageState": "",
+    "last_checked": "2026-04-28T09:09:50.899317",
+    "submitted": "2026-04-27T15:00:30.667260"
+  },
+  "https://automationmart.io/listing/10720-categorize-support-tickets-with-chatgpt-and-allocate-based-on-agent-expertise": {
+    "site": "https://automationmart.io/",
+    "first_seen": "2026-04-23T15:12:33.699219",
+    "verdict": "ERROR",
+    "coverageState": "",
+    "last_checked": "2026-04-28T09:09:51.081322",
+    "submitted": "2026-04-27T15:00:37.157929"
+  },
+  "https://automationmart.io/listing/6629-add-info-and-links-of-zoom-recordings-to-a-google-sheet-and-upload-to-google-drive": {
+    "site": "https://automationmart.io/",
+    "first_seen": "2026-04-23T15:12:40.140842",
+    "verdict": "ERROR",
+    "coverageState": "",
+    "last_checked": "2026-04-28T09:09:51.268536",
+    "submitted": "2026-04-27T15:00:43.616291"
+  },
+  "https://automationmart.io/listing/2043-capture-email-and-phone-via-webhooks-validate-them-using-regex-and-store-them-in-a-data-store": {
+    "site": "https://automationmart.io/",
+    "first_seen": "2026-04-23T15:12:46.570827",
+    "verdict": "ERROR",
+    "coverageState": "",
+    "last_checked": "2026-04-28T09:09:51.452837",
+    "submitted": "2026-04-27T15:00:50.065857"
+  },
+  "https://automationmart.io/listing/11044-create-a-sales-analysis-for-loyverse-reciepts-with-openai": {
+    "site": "https://automationmart.io/",
+    "first_seen": "2026-04-23T15:12:53.011671",
+    "verdict": "ERROR",
+    "coverageState": "",
+    "last_checked": "2026-04-28T09:09:51.633104",
+    "submitted": "2026-04-27T15:00:56.542523"
+  },
+  "https://automationmart.io/listing/3362-creation-of-documentation-e-g-contract-for-a-new-deal-that-meets-a-specified-criteria-on-hubspot-crm": {
+    "site": "https://automationmart.io/",
+    "first_seen": "2026-04-23T15:12:59.668256",
+    "verdict": "ERROR",
+    "coverageState": "",
+    "last_checked": "2026-04-28T09:09:51.831076",
+    "submitted": "2026-04-27T15:01:02.977153"
+  },
+  "https://automationmart.io/listing/13478-share-articles-on-facebook-and-instagram-with-photos-from-rss-feeds": {
+    "site": "https://automationmart.io/",
+    "first_seen": "2026-04-23T15:13:06.491970",
+    "verdict": "ERROR",
+    "coverageState": "",
+    "last_checked": "2026-04-28T09:09:52.015012",
+    "submitted": "2026-04-27T15:01:09.418682"
+  },
+  "https://automationmart.io/listing/6395-send-slack-notification-to-assignees-in-a-notion-database": {
+    "site": "https://automationmart.io/",
+    "first_seen": "2026-04-23T15:13:12.998845",
+    "verdict": "ERROR",
+    "coverageState": "",
+    "last_checked": "2026-04-28T09:09:52.200519",
+    "submitted": "2026-04-27T15:01:15.978978"
+  },
+  "https://automationmart.io/listing/13413-create-a-google-doc-from-new-rows-in-google-sheets-using-openai-gpt-3-for-content-generation": {
+    "site": "https://automationmart.io/",
+    "first_seen": "2026-04-23T15:13:19.561910",
+    "verdict": "ERROR",
+    "coverageState": "",
+    "last_checked": "2026-04-28T09:09:52.389284",
+    "submitted": "2026-04-27T15:01:22.542038"
+  },
+  "https://automationmart.io/listing/3319-watch-for-new-media-on-instagram-and-upload-it-to-google-drive": {
+    "site": "https://automationmart.io/",
+    "first_seen": "2026-04-23T15:13:26.118078",
+    "verdict": "ERROR",
+    "coverageState": "",
+    "last_checked": "2026-04-28T09:09:52.581032",
+    "submitted": "2026-04-27T15:01:29.051654"
+  },
+  "https://automationmart.io/listing/405-post-new-instagram-photos-to-slack": {
+    "site": "https://automationmart.io/",
+    "first_seen": "2026-04-23T15:13:32.700870",
+    "verdict": "ERROR",
+    "coverageState": "",
+    "last_checked": "2026-04-28T09:09:52.764334",
+    "submitted": "2026-04-27T15:01:35.520389"
+  },
+  "https://automationmart.io/listing/3124-transform-new-orders-from-shopify-to-offline-events-in-facebook": {
+    "site": "https://automationmart.io/",
+    "first_seen": "2026-04-23T15:13:39.473046",
+    "verdict": "ERROR",
+    "coverageState": "",
+    "last_checked": "2026-04-28T09:09:53.052178",
+    "submitted": "2026-04-27T15:01:42.153113"
+  },
+  "https://automationmart.io/listing/6115-convert-new-gmail-emails-to-pdf-using-pdf-co-and-save-it-to-google-drive": {
+    "site": "https://automationmart.io/",
+    "first_seen": "2026-04-23T15:13:46.359349",
+    "verdict": "ERROR",
+    "coverageState": "",
+    "last_checked": "2026-04-28T09:09:53.240101",
+    "submitted": "2026-04-27T15:01:48.626546"
+  },
+  "https://automationmart.io/listing/10960-create-google-calendar-events-for-microsoft-365-calendar-events": {
+    "site": "https://automationmart.io/",
+    "first_seen": "2026-04-23T15:13:52.942425",
+    "verdict": "ERROR",
+    "coverageState": "",
+    "last_checked": "2026-04-28T09:09:53.422129",
+    "submitted": "2026-04-27T15:01:55.081191"
+  },
+  "https://automationmart.io/listing/15192-create-engaging-linkedin-posts-from-google-sheets-data-using-chatgpt": {
+    "site": "https://automationmart.io/",
+    "first_seen": "2026-04-23T15:13:59.868171",
+    "verdict": "ERROR",
+    "coverageState": "",
+    "last_checked": "2026-04-28T09:09:53.602825",
+    "submitted": "2026-04-27T15:02:01.548151"
+  },
+  "https://automationmart.io/listing/10508-send-audio-files-in-telegram-from-generated-texts-by-chatgpt": {
+    "site": "https://automationmart.io/",
+    "first_seen": "2026-04-23T15:14:06.622767",
+    "verdict": "ERROR",
+    "coverageState": "",
+    "last_checked": "2026-04-28T09:09:53.782958",
+    "submitted": "2026-04-27T15:02:08.174489"
+  },
+  "https://automationmart.io/listing/40-get-3-day-weather-forecast-via-email": {
+    "site": "https://automationmart.io/",
+    "first_seen": "2026-04-23T15:14:13.212935",
+    "verdict": "ERROR",
+    "coverageState": "",
+    "last_checked": "2026-04-28T09:09:53.974771",
+    "submitted": "2026-04-27T15:02:14.643287"
+  },
+  "https://automationmart.io/listing/12857-generate-images-with-openai-and-upload-files-to-google-drive": {
+    "site": "https://automationmart.io/",
+    "first_seen": "2026-04-23T15:14:19.713952",
+    "verdict": "ERROR",
+    "coverageState": "",
+    "last_checked": "2026-04-28T09:09:54.165112",
+    "submitted": "2026-04-27T15:02:21.110858"
+  },
+  "https://automationmart.io/listing/5897-add-webhook-data-to-a-google-sheet-and-send-email-notifications": {
+    "site": "https://automationmart.io/",
+    "first_seen": "2026-04-23T15:14:26.288513",
+    "verdict": "ERROR",
+    "coverageState": "",
+    "last_checked": "2026-04-28T09:09:54.353919",
+    "submitted": "2026-04-27T15:02:27.549494"
+  },
+  "https://automationmart.io/listing/10868-summarize-rss-feed-items-with-hugging-face-generate-the-voice-over-with-elevenlabs-and-email-the-file": {
+    "site": "https://automationmart.io/",
+    "first_seen": "2026-04-23T15:14:33.102244",
+    "verdict": "ERROR",
+    "coverageState": "",
+    "last_checked": "2026-04-28T09:09:54.548905",
+    "submitted": "2026-04-27T15:02:34.019896"
+  },
+  "https://automationmart.io/listing/2538-retry": {
+    "site": "https://automationmart.io/",
+    "first_seen": "2026-04-23T15:14:39.805214",
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "last_checked": "2026-04-24T14:35:23.432153",
+    "submitted": "2026-04-23T15:14:39.983300"
+  },
+  "https://automationmart.io/listing/13833-create-a-new-google-sheets-row-for-every-new-email-received-using-chatgpt-to-summarize-the-content": {
+    "site": "https://automationmart.io/",
+    "first_seen": "2026-04-23T15:14:46.288133",
+    "verdict": "ERROR",
+    "coverageState": "",
+    "last_checked": "2026-04-28T09:09:54.735321",
+    "submitted": "2026-04-27T15:02:40.494488"
+  },
+  "https://automationmart.io/listing/5045-transcribe-new-long-mp3-files-from-google-drive-with-google-cloud-speech": {
+    "site": "https://automationmart.io/",
+    "first_seen": "2026-04-23T15:14:52.707957",
+    "verdict": "ERROR",
+    "coverageState": "",
+    "last_checked": "2026-04-28T09:09:54.919010",
+    "submitted": "2026-04-27T15:02:46.961858"
+  },
+  "https://automationmart.io/listing/13559-send-whatsapp-messages-for-new-leads-from-facebook-lead-ads-and-log-them-in-google-sheets": {
+    "site": "https://automationmart.io/",
+    "first_seen": "2026-04-23T15:14:59.148768",
+    "verdict": "ERROR",
+    "coverageState": "",
+    "last_checked": "2026-04-28T09:09:55.106901",
+    "submitted": "2026-04-27T15:02:53.394126"
+  },
+  "https://automationmart.io/listing/3047-download-and-send-a-receipt-from-integromat": {
+    "site": "https://automationmart.io/",
+    "first_seen": "2026-04-23T15:15:05.563637",
+    "verdict": "ERROR",
+    "coverageState": "",
+    "last_checked": "2026-04-28T09:09:55.290160",
+    "submitted": "2026-04-27T15:02:59.820354"
+  },
+  "https://automationmart.io/listing/14008-create-blog-posts-automatically-from-new-articles-using-openai-and-rss-feeds": {
+    "site": "https://automationmart.io/",
+    "first_seen": "2026-04-23T15:15:12.140418",
+    "verdict": "ERROR",
+    "coverageState": "",
+    "last_checked": "2026-04-28T09:09:55.477706",
+    "submitted": "2026-04-27T15:03:06.316861"
+  },
+  "https://automationmart.io/listing/11953-create-a-brand-strategy-with-chatgpt-and-notion": {
+    "site": "https://automationmart.io/",
+    "first_seen": "2026-04-23T15:15:18.767406",
+    "verdict": "ERROR",
+    "coverageState": "",
+    "last_checked": "2026-04-28T09:09:55.663414",
+    "submitted": "2026-04-27T15:03:12.788272"
+  },
+  "https://automationmart.io/listing/11217-personalize-an-introduction-message-with-chatgpt-for-new-hubspot-crm-leads-and-store-them-on-a-google-sheet-for-review": {
+    "site": "https://automationmart.io/",
+    "first_seen": "2026-04-23T15:15:25.350218",
+    "verdict": "ERROR",
+    "coverageState": "",
+    "last_checked": "2026-04-28T09:09:55.847389",
+    "submitted": "2026-04-27T15:03:19.250067"
+  },
+  "https://automationmart.io/listing/2298-send-data-received-by-a-manychat-bot-to-a-webhook-search-through-a-google-sheet-and-respond-with-a-dynamic-gallery": {
+    "site": "https://automationmart.io/",
+    "first_seen": "2026-04-23T15:15:31.784818",
+    "verdict": "ERROR",
+    "coverageState": "",
+    "last_checked": "2026-04-28T09:09:56.032158",
+    "submitted": "2026-04-27T15:03:25.714237"
+  },
+  "https://automationmart.io/listing/11984-upload-youtube-videos-shorts-with-ai-generated-descriptions-and-tags-from-onedrive": {
+    "site": "https://automationmart.io/",
+    "first_seen": "2026-04-23T15:15:38.575711",
+    "verdict": "ERROR",
+    "coverageState": "",
+    "last_checked": "2026-04-28T09:09:56.215223",
+    "submitted": "2026-04-27T15:03:32.140928"
+  },
+  "https://automationmart.io/listing/4835-save-attachments-from-new-email-to-onedrive": {
+    "site": "https://automationmart.io/",
+    "first_seen": "2026-04-23T15:15:45.334241",
+    "verdict": "ERROR",
+    "coverageState": "",
+    "last_checked": "2026-04-28T09:09:56.405797",
+    "submitted": "2026-04-27T15:03:38.566350"
+  },
+  "https://automationmart.io/listing/12101-summarize-content-with-chatgpt-from-a-monitored-site-using-browse-ai-and-create-a-facebook-post": {
+    "site": "https://automationmart.io/",
+    "first_seen": "2026-04-23T15:15:51.927062",
+    "verdict": "ERROR",
+    "coverageState": "",
+    "last_checked": "2026-04-28T09:09:56.595249",
+    "submitted": "2026-04-27T15:03:45.005977"
+  },
+  "https://automationmart.io/listing/4663-classify-articles-with-google-natural-language-and-save-the-results-as-a-csv-file": {
+    "site": "https://automationmart.io/",
+    "first_seen": "2026-04-23T15:15:58.740767",
+    "verdict": "ERROR",
+    "coverageState": "",
+    "last_checked": "2026-04-28T09:09:56.781456",
+    "submitted": "2026-04-27T15:03:51.462941"
+  },
+  "https://automationmart.io/listing/14073-create-instagram-posts-from-google-sheets-data-using-chatgpt-assistant-and-image-generation": {
+    "site": "https://automationmart.io/",
+    "first_seen": "2026-04-23T15:16:05.171432",
+    "verdict": "ERROR",
+    "coverageState": "",
+    "last_checked": "2026-04-28T09:09:56.965530",
+    "submitted": "2026-04-27T15:03:57.956742"
+  },
+  "https://automationmart.io/listing/13664-create-engaging-social-media-posts-using-wordpress-and-chatgpt": {
+    "site": "https://automationmart.io/",
+    "first_seen": "2026-04-23T15:16:11.765807",
+    "verdict": "ERROR",
+    "coverageState": "",
+    "last_checked": "2026-04-28T09:09:57.158142",
+    "submitted": "2026-04-27T15:04:04.397582"
+  },
+  "https://automationmart.io/listing/13666-send-telegram-messages-for-new-articles-using-rss-feeds-and-chatgpt-text-generation": {
+    "site": "https://automationmart.io/",
+    "first_seen": "2026-04-23T15:16:18.252051",
+    "verdict": "ERROR",
+    "coverageState": "",
+    "last_checked": "2026-04-28T09:09:57.343766",
+    "submitted": "2026-04-27T15:04:10.909075"
+  },
+  "https://automationmart.io/listing/14449-traffic-funnel-multiplatform-video-publishing-traffic-automation-short-version": {
+    "site": "https://automationmart.io/",
+    "first_seen": "2026-04-23T15:16:24.679943",
+    "verdict": "ERROR",
+    "coverageState": "",
+    "last_checked": "2026-04-28T09:09:57.532598",
+    "submitted": "2026-04-27T15:04:17.355700"
+  },
+  "https://automationmart.io/listing/13442-fetch-facebook-ad-campaign-data-and-log-insights-in-google-sheets": {
+    "site": "https://automationmart.io/",
+    "first_seen": "2026-04-23T15:16:31.100048",
+    "verdict": "ERROR",
+    "coverageState": "",
+    "last_checked": "2026-04-28T09:09:57.719981",
+    "submitted": "2026-04-27T15:04:23.805019"
+  },
+  "https://automationmart.io/listing/12189-create-a-newsletter-with-chatgpt-and-mailchimp-2-2": {
+    "site": "https://automationmart.io/",
+    "first_seen": "2026-04-23T15:16:37.616191",
+    "verdict": "ERROR",
+    "coverageState": "",
+    "last_checked": "2026-04-28T09:09:57.900863",
+    "submitted": "2026-04-27T15:04:30.261679"
+  },
+  "https://automationmart.io/listing/12155-ai-tools-101-ai-email-classification-with-gmail-chatgpt-and-freshdesk": {
+    "site": "https://automationmart.io/",
+    "first_seen": "2026-04-23T15:16:44.342370",
+    "verdict": "ERROR",
+    "coverageState": "",
+    "last_checked": "2026-04-28T09:09:58.087768",
+    "submitted": "2026-04-27T15:04:36.707634"
+  },
+  "https://automationmart.io/listing/1707-send-emails-from-gmail-for-new-google-calendar-events": {
+    "site": "https://automationmart.io/",
+    "first_seen": "2026-04-23T15:16:50.826317",
+    "verdict": "ERROR",
+    "coverageState": "",
+    "last_checked": "2026-04-28T09:09:58.267155",
+    "submitted": "2026-04-27T15:04:43.173222"
+  },
+  "https://automationmart.io/listing/1449-add-supersaas-appointments-to-google-calendar": {
+    "site": "https://automationmart.io/",
+    "first_seen": "2026-04-23T15:16:57.493704",
+    "verdict": "ERROR",
+    "coverageState": "",
+    "last_checked": "2026-04-28T09:09:58.578038",
+    "submitted": "2026-04-27T15:04:49.824815"
+  },
+  "https://automationmart.io/listing/6380-add-toggl-time-tracking-reports-to-notion": {
+    "site": "https://automationmart.io/",
+    "first_seen": "2026-04-23T15:17:03.967521",
+    "verdict": "ERROR",
+    "coverageState": "",
+    "last_checked": "2026-04-28T09:09:58.761129",
+    "submitted": "2026-04-27T15:04:56.323475"
+  },
+  "https://automationmart.io/listing/11289-generate-an-image-with-dall-e-from-a-slack-message-prompt": {
+    "site": "https://automationmart.io/",
+    "first_seen": "2026-04-23T15:17:10.416027",
+    "verdict": "ERROR",
+    "coverageState": "",
+    "last_checked": "2026-04-28T09:09:58.945841",
+    "submitted": "2026-04-27T15:05:02.786441"
+  },
+  "https://automationmart.io/listing/14140-generate-a-linkedin-post-from-google-sheets-data-using-openai-and-perplexity-ai": {
+    "site": "https://automationmart.io/",
+    "first_seen": "2026-04-23T15:17:16.964805",
+    "verdict": "ERROR",
+    "coverageState": "",
+    "last_checked": "2026-04-28T09:09:59.133669",
+    "submitted": "2026-04-27T15:05:09.246854"
+  },
+  "https://automationmart.io/listing/12175-3-integration-facebook-lead-ads-with-fb-module": {
+    "site": "https://automationmart.io/",
+    "first_seen": "2026-04-23T15:17:23.332907",
+    "verdict": "ERROR",
+    "coverageState": "",
+    "last_checked": "2026-04-28T09:09:59.314526",
+    "submitted": "2026-04-27T15:05:15.763467"
+  },
+  "https://automationmart.io/listing/10410-extract-data-from-invoices-received-on-gmail-with-eden-ai": {
+    "site": "https://automationmart.io/",
+    "first_seen": "2026-04-23T15:17:30.113808",
+    "verdict": "ERROR",
+    "coverageState": "",
+    "last_checked": "2026-04-28T09:09:59.495034",
+    "submitted": "2026-04-27T15:05:22.201003"
+  },
+  "https://automationmart.io/listing/1723-send-messages-via-gmail-for-new-google-forms-responses": {
+    "site": "https://automationmart.io/",
+    "first_seen": "2026-04-23T15:17:36.697972",
+    "verdict": "ERROR",
+    "coverageState": "",
+    "last_checked": "2026-04-28T09:09:59.682197",
+    "submitted": "2026-04-27T15:05:28.655032"
+  },
+  "https://automationmart.io/listing/14045-create-engaging-social-media-posts-with-images-from-google-sheets-data-using-openai-and-facebook-pages": {
+    "site": "https://automationmart.io/",
+    "first_seen": "2026-04-23T15:17:43.221798",
+    "verdict": "ERROR",
+    "coverageState": "",
+    "last_checked": "2026-04-28T09:09:59.869961",
+    "submitted": "2026-04-27T15:05:35.123942"
+  },
+  "https://automationmart.io/listing/11863-send-facebook-ads-campaigns-report-via-email": {
+    "site": "https://automationmart.io/",
+    "first_seen": "2026-04-23T15:17:49.876663",
+    "verdict": "ERROR",
+    "coverageState": "",
+    "last_checked": "2026-04-28T09:10:00.054777",
+    "submitted": "2026-04-27T15:05:41.622078"
+  },
+  "https://automationmart.io/listing/8618-automatically-save-fireflies-ai-transcripts-to-google-docs": {
+    "site": "https://automationmart.io/",
+    "first_seen": "2026-04-23T15:17:56.439456",
+    "verdict": "ERROR",
+    "coverageState": "",
+    "last_checked": "2026-04-28T09:10:00.245095",
+    "submitted": "2026-04-27T15:05:48.057322"
+  },
+  "https://automationmart.io/listing/3593-save-shopify-orders-in-airtable": {
+    "site": "https://automationmart.io/",
+    "first_seen": "2026-04-23T15:18:03.168766",
+    "verdict": "ERROR",
+    "coverageState": "",
+    "last_checked": "2026-04-28T09:10:00.431687",
+    "submitted": "2026-04-27T15:05:54.897498"
+  },
+  "https://automationmart.io/listing/317-post-new-google-photos-photos-to-a-facebook-page": {
+    "site": "https://automationmart.io/",
+    "first_seen": "2026-04-23T15:18:09.646597",
+    "verdict": "ERROR",
+    "coverageState": "",
+    "last_checked": "2026-04-28T09:10:00.613812",
+    "submitted": "2026-04-27T15:06:01.348121"
+  },
+  "https://automationmart.io/listing/12220-post-canva-designs-to-a-facebook-page-and-save-in-dropbox": {
+    "site": "https://automationmart.io/",
+    "first_seen": "2026-04-23T15:18:16.380299",
+    "verdict": "ERROR",
+    "coverageState": "",
+    "last_checked": "2026-04-28T09:10:00.793118",
+    "submitted": "2026-04-27T15:06:07.950076"
+  },
+  "https://automationmart.io/listing/11940-create-a-brand-strategy-with-chatgpt-and-google-docs": {
+    "site": "https://automationmart.io/",
+    "first_seen": "2026-04-23T15:18:23.078737",
+    "verdict": "ERROR",
+    "coverageState": "",
+    "last_checked": "2026-04-28T09:10:00.979352",
+    "submitted": "2026-04-27T15:06:14.398149"
+  },
+  "https://automationmart.io/listing/6290-add-a-new-row-to-a-google-sheets-spreadsheet-from-a-linkedin-lead-gen-forms-submission": {
+    "site": "https://automationmart.io/",
+    "first_seen": "2026-04-23T15:18:29.526302",
+    "verdict": "ERROR",
+    "coverageState": "",
+    "last_checked": "2026-04-28T09:10:01.169077",
+    "submitted": "2026-04-27T15:06:20.868443"
+  },
+  "https://automationmart.io/listing/11983-upload-youtube-video-shorts-with-ai-generated-descriptions-and-tags-from-dropbox": {
+    "site": "https://automationmart.io/",
+    "first_seen": "2026-04-23T15:18:35.948585",
+    "verdict": "ERROR",
+    "coverageState": "",
+    "last_checked": "2026-04-28T09:10:01.347388",
+    "submitted": "2026-04-27T15:06:27.342298"
+  },
+  "https://automationmart.io/listing/10862-summarize-rss-feed-items-with-hugging-face-and-store-the-results-on-a-google-sheet": {
+    "site": "https://automationmart.io/",
+    "first_seen": "2026-04-23T15:18:42.462248",
+    "verdict": "ERROR",
+    "coverageState": "",
+    "last_checked": "2026-04-28T09:10:01.534705",
+    "submitted": "2026-04-27T15:06:33.764737"
+  },
+  "https://automationmart.io/listing/12609-personalized-news-digest-rss-to-email": {
+    "site": "https://automationmart.io/",
+    "first_seen": "2026-04-23T15:18:49.134401",
+    "verdict": "ERROR",
+    "coverageState": "",
+    "last_checked": "2026-04-28T09:10:01.715688",
+    "submitted": "2026-04-27T15:06:40.323493"
+  },
+  "https://automationmart.io/listing/9130-send-campaign-performance-stats-from-google-ads-in-an-email": {
+    "site": "https://automationmart.io/",
+    "first_seen": "2026-04-23T15:18:55.512708",
+    "verdict": "ERROR",
+    "coverageState": "",
+    "last_checked": "2026-04-28T09:10:01.901980",
+    "submitted": "2026-04-27T15:06:46.900267"
+  },
+  "https://automationmart.io/listing/12247-automate-data-extraction-with-pdf-co": {
+    "site": "https://automationmart.io/",
+    "first_seen": "2026-04-23T15:19:02.229094",
+    "verdict": "ERROR",
+    "coverageState": "",
+    "last_checked": "2026-04-28T09:10:02.081338",
+    "submitted": "2026-04-27T15:06:53.358869"
+  },
+  "https://automationmart.io/listing/2881-create-a-reservation-system-using-manychat-and-google-sheets": {
+    "site": "https://automationmart.io/",
+    "first_seen": "2026-04-23T15:19:08.800281",
+    "verdict": "ERROR",
+    "coverageState": "",
+    "last_checked": "2026-04-28T09:10:02.270987",
+    "submitted": "2026-04-27T15:06:59.799797"
+  },
+  "https://automationmart.io/listing/3669-create-an-event-ticketing-system-with-google-sheets-google-docs-barcodes-part-1": {
+    "site": "https://automationmart.io/",
+    "first_seen": "2026-04-23T15:19:15.873555",
+    "verdict": "ERROR",
+    "coverageState": "",
+    "last_checked": "2026-04-28T09:10:02.450359",
+    "submitted": "2026-04-27T15:07:06.258316"
+  },
+  "https://automationmart.io/listing/14928-automate-responses-to-business-emails-with-make-ai-tools-and-google-sheets-draft-emails": {
+    "site": "https://automationmart.io/",
+    "first_seen": "2026-04-23T15:19:22.487885",
+    "verdict": "ERROR",
+    "coverageState": "",
+    "last_checked": "2026-04-28T09:10:02.640006",
+    "submitted": "2026-04-27T15:07:12.733534"
+  },
+  "https://automationmart.io/listing/13414-create-social-media-posts-on-facebook-for-new-articles-from-rss-feeds": {
+    "site": "https://automationmart.io/",
+    "first_seen": "2026-04-23T15:19:29.143171",
+    "verdict": "ERROR",
+    "coverageState": "",
+    "last_checked": "2026-04-28T09:10:02.849055",
+    "submitted": "2026-04-27T15:07:19.173962"
+  },
+  "https://automationmart.io/listing/16043-uploading-fliki-videos-to-youtube": {
+    "site": "https://automationmart.io/",
+    "first_seen": "2026-04-23T15:19:35.665379",
+    "verdict": "ERROR",
+    "coverageState": "",
+    "last_checked": "2026-04-28T09:10:03.033526",
+    "submitted": "2026-04-27T15:07:25.652519"
+  },
+  "https://automationmart.io/listing/11914-send-total-users-sessions-by-country-from-google-analytics-to-chatgpt-for-ai-analysis": {
+    "site": "https://automationmart.io/",
+    "first_seen": "2026-04-23T15:19:42.359614",
+    "verdict": "ERROR",
+    "coverageState": "",
+    "last_checked": "2026-04-28T09:10:03.209997",
+    "submitted": "2026-04-27T15:07:32.124219"
+  },
+  "https://automationmart.io/listing/10893-transcribe-zoom-recordings-with-openai-s-whisper-summarize-create-audio-files-with-elevenlabs-and-send-via-slack": {
+    "site": "https://automationmart.io/",
+    "first_seen": "2026-04-23T15:19:48.907082",
+    "verdict": "ERROR",
+    "coverageState": "",
+    "last_checked": "2026-04-28T09:10:03.396443",
+    "submitted": "2026-04-27T15:07:38.599302"
+  },
+  "https://automationmart.io/listing/10651-create-social-media-posts-from-a-published-article-using-chatgpt-simple-version": {
+    "site": "https://automationmart.io/",
+    "first_seen": "2026-04-23T15:19:55.259584",
+    "verdict": "ERROR",
+    "coverageState": "",
+    "last_checked": "2026-04-28T09:10:03.586406",
+    "submitted": "2026-04-27T15:07:45.042082"
+  },
+  "https://automationmart.io/listing/12180-planet-earth": {
+    "site": "https://automationmart.io/",
+    "first_seen": "2026-04-23T15:20:01.897083",
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "last_checked": "2026-04-24T14:40:40.094527",
+    "submitted": "2026-04-23T15:20:01.994235"
+  },
+  "https://automationmart.io/listing/12102-summarize-content-with-chatgpt-from-a-monitored-site-using-browse-ai-and-create-a-linkedin-post": {
+    "site": "https://automationmart.io/",
+    "first_seen": "2026-04-23T15:20:08.523995",
+    "verdict": "ERROR",
+    "coverageState": "",
+    "last_checked": "2026-04-28T09:10:03.767566",
+    "submitted": "2026-04-27T15:07:51.489649"
+  },
+  "https://automationmart.io/listing/12195-create-canva-designs-with-data-from-google-sheets-and-send-to-slack": {
+    "site": "https://automationmart.io/",
+    "first_seen": "2026-04-23T15:20:14.910551",
+    "verdict": "ERROR",
+    "coverageState": "",
+    "last_checked": "2026-04-28T09:10:03.951872",
+    "submitted": "2026-04-27T15:07:57.970498"
+  },
+  "https://automationmart.io/listing/10904-create-download-and-parse-your-amazon-seller-central-report": {
+    "site": "https://automationmart.io/",
+    "first_seen": "2026-04-23T15:20:21.406290",
+    "verdict": "ERROR",
+    "coverageState": "",
+    "last_checked": "2026-04-28T09:10:04.138290",
+    "submitted": "2026-04-27T15:08:04.487033"
+  },
+  "https://automationmart.io/listing/416-add-new-google-calendar-events-to-a-google-sheets-spreadsheet-as-new-rows-and-email-it-to-a-specified-email-address": {
+    "site": "https://automationmart.io/",
+    "first_seen": "2026-04-23T15:20:28.036135",
+    "verdict": "ERROR",
+    "coverageState": "",
+    "last_checked": "2026-04-28T09:10:04.317987",
+    "submitted": "2026-04-27T15:08:10.963803"
+  },
+  "https://automationmart.io/listing/10628-generate-high-converting-descriptions-for-woocommerce-products-using-ai": {
+    "site": "https://automationmart.io/",
+    "first_seen": "2026-04-23T15:20:34.459259",
+    "verdict": "ERROR",
+    "coverageState": "",
+    "last_checked": "2026-04-28T09:10:04.493510",
+    "submitted": "2026-04-27T15:08:17.424029"
+  },
+  "https://automationmart.io/listing/11244-summarize-your-emails-with-openai-and-send-push-notifications-to-your-apple-device": {
+    "site": "https://automationmart.io/",
+    "first_seen": "2026-04-23T15:20:40.956513",
+    "verdict": "ERROR",
+    "coverageState": "",
+    "last_checked": "2026-04-28T09:10:04.680594",
+    "submitted": "2026-04-27T15:08:23.991926"
+  },
+  "https://automationmart.io/listing/10409-extract-text-from-google-drive-image-pdf-translate-and-extract-entities-from-text": {
+    "site": "https://automationmart.io/",
+    "first_seen": "2026-04-23T15:20:47.696688",
+    "verdict": "ERROR",
+    "coverageState": "",
+    "last_checked": "2026-04-28T09:10:04.869597",
+    "submitted": "2026-04-27T15:08:30.430218"
+  },
+  "https://automationmart.io/listing/11613-conduct-swot-analysis-on-competitors-with-chatgpt-and-store-results-on-a-google-slide": {
+    "site": "https://automationmart.io/",
+    "first_seen": "2026-04-23T15:20:54.353768",
+    "verdict": "ERROR",
+    "coverageState": "",
+    "last_checked": "2026-04-28T09:10:05.061304",
+    "submitted": "2026-04-27T15:08:36.900139"
+  },
+  "https://automationmart.io/listing/11053-generate-linkedin-draft-posts-from-tiktok-videos": {
+    "site": "https://automationmart.io/",
+    "first_seen": "2026-04-23T15:21:00.796956",
+    "verdict": "ERROR",
+    "coverageState": "",
+    "last_checked": "2026-04-28T09:10:05.246005",
+    "submitted": "2026-04-27T15:08:43.353157"
+  },
+  "https://automationmart.io/listing/7064-create-update-rows-in-a-google-sheet-spreadsheet-from-new-update-items-in-monday": {
+    "site": "https://automationmart.io/",
+    "first_seen": "2026-04-23T15:21:07.464656",
+    "verdict": "ERROR",
+    "coverageState": "",
+    "last_checked": "2026-04-28T09:10:05.433790",
+    "submitted": "2026-04-27T15:08:49.790550"
+  },
+  "https://automationmart.io/listing/6112-create-notion-database-page-for-new-todoist-task-with-specific-label": {
+    "site": "https://automationmart.io/",
+    "first_seen": "2026-04-23T15:21:13.918525",
+    "verdict": "ERROR",
+    "coverageState": "",
+    "last_checked": "2026-04-28T09:10:05.622275",
+    "submitted": "2026-04-27T15:08:56.232125"
+  },
+  "https://automationmart.io/listing/11585-conduct-swot-analysis-on-competitors-with-chatgpt-and-store-results-on-a-google-sheet-quick-version": {
+    "site": "https://automationmart.io/",
+    "first_seen": "2026-04-23T15:21:20.414293",
+    "verdict": "ERROR",
+    "coverageState": "",
+    "last_checked": "2026-04-28T09:10:05.801414",
+    "submitted": "2026-04-27T15:09:02.696286"
+  },
+  "https://automationmart.io/listing/10728-automate-responses-to-business-emails-with-chatgpt": {
+    "site": "https://automationmart.io/",
+    "first_seen": "2026-04-23T15:21:27.008334",
+    "verdict": "ERROR",
+    "coverageState": "",
+    "last_checked": "2026-04-28T09:10:05.981304",
+    "submitted": "2026-04-27T15:09:09.115147"
+  },
+  "https://automationmart.io/listing/10901-retrieve-new-pins-from-pinterest-post-it-on-instagram-and-facebook": {
+    "site": "https://automationmart.io/",
+    "first_seen": "2026-04-23T15:21:33.805718",
+    "verdict": "ERROR",
+    "coverageState": "",
+    "last_checked": "2026-04-28T09:10:06.160146",
+    "submitted": "2026-04-27T15:09:15.561681"
+  },
+  "https://automationmart.io/listing/6303-add-phantombuster-phantom-results-to-google-sheets": {
+    "site": "https://automationmart.io/",
+    "first_seen": "2026-04-23T15:21:40.457555",
+    "verdict": "ERROR",
+    "coverageState": "",
+    "last_checked": "2026-04-28T09:10:06.341960",
+    "submitted": "2026-04-27T15:09:22.038365"
+  },
+  "https://automationmart.io/listing/13163-create-linkedin-posts-from-new-articles-using-rss-feeds-and-openai-gpt-3": {
+    "site": "https://automationmart.io/",
+    "first_seen": "2026-04-23T15:21:46.937911",
+    "verdict": "ERROR",
+    "coverageState": "",
+    "last_checked": "2026-04-28T09:10:06.530327",
+    "submitted": "2026-04-27T15:09:28.571298"
+  },
+  "https://automationmart.io/listing/329-automatically-upload-email-attachments-to-your-ftp-server": {
+    "site": "https://automationmart.io/",
+    "first_seen": "2026-04-23T15:21:53.489368",
+    "verdict": "ERROR",
+    "coverageState": "",
+    "last_checked": "2026-04-28T09:10:06.720956",
+    "submitted": "2026-04-27T15:09:35.035873"
+  },
+  "https://automationmart.io/listing/6291-create-instagram-posts-from-an-airtable-content-calendar": {
+    "site": "https://automationmart.io/",
+    "first_seen": "2026-04-23T15:22:00.050238",
+    "verdict": "ERROR",
+    "coverageState": "",
+    "last_checked": "2026-04-28T09:10:06.911230",
+    "submitted": "2026-04-27T15:09:41.555607"
+  },
+  "https://automationmart.io/listing/11182-transcribe-audio-files-from-google-drive-using-openai-whisper-and-send-an-email": {
+    "site": "https://automationmart.io/",
+    "first_seen": "2026-04-23T15:22:06.661794",
+    "verdict": "ERROR",
+    "coverageState": "",
+    "last_checked": "2026-04-28T09:10:07.094115",
+    "submitted": "2026-04-27T15:09:48.009637"
+  },
+  "https://automationmart.io/listing/13269-create-wordpress-posts-from-new-articles-triggered-by-rss-feeds-using-chatgpt": {
+    "site": "https://automationmart.io/",
+    "first_seen": "2026-04-23T15:22:13.168099",
+    "verdict": "ERROR",
+    "coverageState": "",
+    "last_checked": "2026-04-28T09:10:07.279503",
+    "submitted": "2026-04-27T15:09:54.436016"
+  },
+  "https://automationmart.io/listing/84-get-rss-feed-updates-in-a-single-email-summarizing-all-posts-that-contain-a-specific-keyword": {
+    "site": "https://automationmart.io/",
+    "first_seen": "2026-04-23T15:22:19.879585",
+    "verdict": "ERROR",
+    "coverageState": "",
+    "last_checked": "2026-04-28T09:10:07.464450",
+    "submitted": "2026-04-27T15:10:00.874582"
+  },
+  "https://automationmart.io/listing/3223-create-a-document-from-a-template-containing-data-from-a-record-in-airtable": {
+    "site": "https://automationmart.io/",
+    "first_seen": "2026-04-23T15:22:26.266500",
+    "verdict": "ERROR",
+    "coverageState": "",
+    "last_checked": "2026-04-28T09:10:07.655944",
+    "submitted": "2026-04-27T15:10:07.336136"
+  },
+  "https://automationmart.io/listing/3195-social-media-distribution-system": {
+    "site": "https://automationmart.io/",
+    "first_seen": "2026-04-23T15:22:32.718595",
+    "verdict": "ERROR",
+    "coverageState": "",
+    "last_checked": "2026-04-28T09:10:07.849430",
+    "submitted": "2026-04-27T15:10:13.768041"
+  },
+  "https://automationmart.io/listing/3171-send-new-instagram-media-both-images-and-videos-to-telegram-bot": {
+    "site": "https://automationmart.io/",
+    "first_seen": "2026-04-23T15:22:39.340531",
+    "verdict": "ERROR",
+    "coverageState": "",
+    "last_checked": "2026-04-28T09:10:08.028471",
+    "submitted": "2026-04-27T15:10:20.223444"
+  },
+  "https://automationmart.io/listing/14018-automate-video-uploads-to-youtube-and-generate-content-with-chatgpt": {
+    "site": "https://automationmart.io/",
+    "first_seen": "2026-04-23T15:22:45.900843",
+    "verdict": "ERROR",
+    "coverageState": "",
+    "last_checked": "2026-04-28T09:10:08.207097",
+    "submitted": "2026-04-27T15:10:26.681298"
+  },
+  "https://automationmart.io/listing/5769-save-gmail-emails-and-attachments-to-google-sheets-and-google-drive": {
+    "site": "https://automationmart.io/",
+    "first_seen": "2026-04-23T15:22:52.653723",
+    "verdict": "ERROR",
+    "coverageState": "",
+    "last_checked": "2026-04-28T09:10:08.391325",
+    "submitted": "2026-04-27T15:10:33.152828"
+  },
+  "https://automationmart.io/listing/11981-upload-youtube-shorts-with-ai-generated-descriptions-and-tags-from-google-drive": {
+    "site": "https://automationmart.io/",
+    "first_seen": "2026-04-23T15:22:59.318584",
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "last_checked": "2026-04-23T15:22:59.318594"
+  },
+  "https://automationmart.io/listing/10971-generate-high-converting-descriptions-for-shopify-products-using-ai": {
+    "site": "https://automationmart.io/",
+    "first_seen": "2026-04-23T15:23:05.612509",
+    "verdict": "ERROR",
+    "coverageState": "",
+    "last_checked": "2026-04-28T09:10:08.574221",
+    "submitted": "2026-04-27T15:10:39.613686"
+  },
+  "https://automationmart.io/listing/10695-create-social-media-posts-from-a-published-blog-using-chatgpt-2-2": {
+    "site": "https://automationmart.io/",
+    "first_seen": "2026-04-23T15:23:12.159789",
+    "verdict": "ERROR",
+    "coverageState": "",
+    "last_checked": "2026-04-28T09:10:08.759935",
+    "submitted": "2026-04-27T15:10:46.048634"
+  },
+  "https://automationmart.io/listing/11435-send-data-from-a-webhook-to-chatgpt-and-add-the-results-to-a-google-sheet": {
+    "site": "https://automationmart.io/",
+    "first_seen": "2026-04-23T15:23:18.770871",
+    "verdict": "ERROR",
+    "coverageState": "",
+    "last_checked": "2026-04-28T09:10:08.941707",
+    "submitted": "2026-04-27T15:10:52.526610"
+  },
+  "https://automationmart.io/listing/13682-generate-blog-posts-in-wordpress-using-data-from-google-sheets-and-chatgpt-completions": {
+    "site": "https://automationmart.io/",
+    "first_seen": "2026-04-23T15:23:25.610964",
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "last_checked": "2026-04-23T15:23:25.610975"
+  },
+  "https://automationmart.io/listing/2110-extract-an-item-and-or-its-value-from-an-array-of-collections": {
+    "site": "https://automationmart.io/",
+    "first_seen": "2026-04-23T15:23:31.889879",
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "last_checked": "2026-04-23T15:23:31.889889"
+  },
+  "https://automationmart.io/listing/11862-send-facebook-ads-campaigns-data-to-a-google-sheet-daily": {
+    "site": "https://automationmart.io/",
+    "first_seen": "2026-04-23T15:23:38.198917",
+    "verdict": "ERROR",
+    "coverageState": "",
+    "last_checked": "2026-04-28T09:10:09.123611",
+    "submitted": "2026-04-27T15:10:59.037034"
+  },
+  "https://automationmart.io/listing/4923-save-media-insight-from-instagram-to-google-sheets": {
+    "site": "https://automationmart.io/",
+    "first_seen": "2026-04-23T15:23:44.746060",
+    "verdict": "ERROR",
+    "coverageState": "",
+    "last_checked": "2026-04-28T09:10:09.311848",
+    "submitted": "2026-04-27T15:11:05.496290"
+  },
+  "https://automationmart.io/listing/12157-ai-tools-101-ai-web-scraping-with-google-sheets": {
+    "site": "https://automationmart.io/",
+    "first_seen": "2026-04-23T15:23:51.208892",
+    "verdict": "ERROR",
+    "coverageState": "",
+    "last_checked": "2026-04-28T09:10:09.491757",
+    "submitted": "2026-04-27T15:11:11.935078"
+  },
+  "https://automationmart.io/listing/5937-create-google-calendar-events-from-data-on-your-google-sheet": {
+    "site": "https://automationmart.io/",
+    "first_seen": "2026-04-23T15:23:57.814192",
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "last_checked": "2026-04-23T15:23:57.814202"
+  },
+  "https://automationmart.io/listing/11079-automatically-upload-new-videos-to-social-media-youtube-and-linkedin": {
+    "site": "https://automationmart.io/",
+    "first_seen": "2026-04-23T15:24:04.347008",
+    "verdict": "ERROR",
+    "coverageState": "",
+    "last_checked": "2026-04-28T09:10:09.670686",
+    "submitted": "2026-04-27T15:11:18.370793"
+  },
+  "https://automationmart.io/listing/4924-create-a-post-in-instagram-for-new-google-sheets-rows": {
+    "site": "https://automationmart.io/",
+    "first_seen": "2026-04-23T15:24:11.154836",
+    "verdict": "ERROR",
+    "coverageState": "",
+    "last_checked": "2026-04-28T09:10:09.856758",
+    "submitted": "2026-04-27T15:11:24.813711"
+  },
+  "https://automationmart.io/listing/11010-automate-responses-to-business-emails-with-chatgpt-and-google-sheets": {
+    "site": "https://automationmart.io/",
+    "first_seen": "2026-04-23T15:24:17.585949",
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "last_checked": "2026-04-23T15:24:17.585960"
+  },
+  "https://automationmart.io/listing/83-save-email-attachments-to-google-drive": {
+    "site": "https://automationmart.io/",
+    "first_seen": "2026-04-23T15:24:24.283255",
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "last_checked": "2026-04-26T14:14:42.020730",
+    "submitted": "2026-04-25T14:14:04.379193"
+  },
+  "https://automationmart.io/listing/12000-get-youtube-videos-in-a-channel-summarize-transcripts-with-chatgpt-and-send-an-email": {
+    "site": "https://automationmart.io/",
+    "first_seen": "2026-04-23T15:24:30.815462",
+    "verdict": "ERROR",
+    "coverageState": "",
+    "last_checked": "2026-04-28T09:10:10.045932",
+    "submitted": "2026-04-27T15:11:31.271313"
+  },
+  "https://automationmart.io/listing/10692-create-social-media-posts-from-a-blog-using-chatgpt-1-2": {
+    "site": "https://automationmart.io/",
+    "first_seen": "2026-04-23T15:24:37.536674",
+    "verdict": "ERROR",
+    "coverageState": "",
+    "last_checked": "2026-04-28T09:10:10.237268",
+    "submitted": "2026-04-27T15:11:37.702313"
+  },
+  "https://automationmart.io/listing/12194-create-canva-designs-with-data-from-google-sheets-and-upload-to-google-drive": {
+    "site": "https://automationmart.io/",
+    "first_seen": "2026-04-23T15:24:44.138492",
+    "verdict": "ERROR",
+    "coverageState": "",
+    "last_checked": "2026-04-28T09:10:10.424670",
+    "submitted": "2026-04-27T15:11:44.326080"
+  },
+  "https://automationmart.io/listing/11243-summarize-emails-with-openai-and-send-it-on-slack": {
+    "site": "https://automationmart.io/",
+    "first_seen": "2026-04-23T15:24:50.793191",
+    "verdict": "ERROR",
+    "coverageState": "",
+    "last_checked": "2026-04-28T09:10:10.614484",
+    "submitted": "2026-04-27T15:11:50.787482"
+  },
+  "https://automationmart.io/listing/6407-create-new-google-calendar-events-from-notion-database-items": {
+    "site": "https://automationmart.io/",
+    "first_seen": "2026-04-23T15:24:57.333609",
+    "verdict": "ERROR",
+    "coverageState": "",
+    "last_checked": "2026-04-28T09:10:10.796253",
+    "submitted": "2026-04-27T15:11:57.229656"
+  },
+  "https://automationmart.io/listing/1686-save-new-gmail-attachments-to-google-drive": {
+    "site": "https://automationmart.io/",
+    "first_seen": "2026-04-23T15:25:03.955876",
+    "verdict": "ERROR",
+    "coverageState": "",
+    "last_checked": "2026-04-28T09:10:10.987228",
+    "submitted": "2026-04-27T15:12:03.687231"
+  },
+  "https://automationmart.io/listing/cold-email-automation-ajj2b": {
+    "site": "https://automationmart.io/",
+    "first_seen": "2026-04-23T15:25:10.527265",
+    "verdict": "ERROR",
+    "coverageState": "",
+    "last_checked": "2026-04-28T09:10:11.168226",
+    "submitted": "2026-04-27T15:12:10.184505"
+  },
+  "https://www.agilitytech.ai/insights/can-agents-predict-your-next-viral": {
+    "site": "sc-domain:agilitytech.ai",
+    "first_seen": "2026-04-26T14:00:07.608744",
+    "verdict": "ERROR",
+    "coverageState": "",
+    "last_checked": "2026-04-28T09:09:42.318079",
+    "submitted": "2026-04-27T14:56:55.178137"
+  },
+  "https://www.agilitytech.ai/insights/can-really-make-your-manufacturing-more": {
+    "site": "sc-domain:agilitytech.ai",
+    "first_seen": "2026-04-27T14:57:01.586658",
+    "verdict": "ERROR",
+    "coverageState": "",
+    "last_checked": "2026-04-28T09:09:42.502761",
+    "submitted": "2026-04-27T14:57:01.613255"
+  },
+  "https://omnitrade24.com/blog/tradingview-crypto-bot-free": {
+    "site": "sc-domain:omnitrade24.com",
+    "first_seen": "2026-04-27T14:57:54.405049",
+    "verdict": "ERROR",
+    "coverageState": "",
+    "last_checked": "2026-04-28T09:09:45.254772",
+    "submitted": "2026-04-27T14:57:54.434710"
+  },
+  "https://www.agilitytech.ai/insights/openais-gpt55-pro-the-gamechanger-for": {
+    "site": "sc-domain:agilitytech.ai",
+    "first_seen": "2026-04-28T10:41:20.913884"
+  }
+}
