@@ -1,4 +1,4 @@
- name: Daily URL Indexer
+name: Daily URL Indexer
 
   on:
     schedule:
